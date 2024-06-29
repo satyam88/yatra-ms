@@ -12,7 +12,7 @@
 	<artifactId>yatra-ms</artifactId>
 	<version>v1.2</version>
 	<name>yatra-ms</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
